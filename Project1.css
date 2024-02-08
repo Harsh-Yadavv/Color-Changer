@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+    padding: 20px;
+}
+button{
+    height: 80px;
+    width: 80px;
+    position:absolute;
+    margin-top: 40px;
+}
+#grey{
+    position:relative;
+    left: 15%;
+    background-color: grey;
+    border: 20%;
+    border-color: black;
+}
+#white{
+    position:absolute;
+    left: 35%;
+    background-color: white;
+    border: 20%;
+    border-color: black;
+}
+#yellow{
+    position:absolute;
+    left: 55%;
+    background-color: yellow;
+    border: 20%;
+    border-color: black;
+}
+#blue{
+    position:absolute;
+    left: 75%;
+    background-color: blue;
+    border: 20%;
+    border-color: black;
+}
+#purple{
+    margin-top: 400px;
+    left: 15.5%;
+    background-color: purple;
+}
+#green{
+    margin-top: 400px;
+    left: 35.5%;
+    background-color: green;
+}
+#red{
+    margin-top: 400px;
+    left: 55.5%;
+    background-color: red;
+}
+#violet{
+    margin-top: 400px;
+    left:75.5%;
+    background-color: violet;
+}
+h3{
+    padding: 20px;
+    margin-top: 100px;
+    text-align: center;
+}
+li {
+    display: inline;
+    padding: 10px;
+    text-align: center;
+    background-color:skyblue;
+    border-radius: 5px;
+  }
+
+.first{
+    height: 50px;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 5px;
+}
+  
